@@ -1,0 +1,2 @@
+recparcial1.TipoMision
+recparcial1.Nave
